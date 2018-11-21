@@ -1,3 +1,4 @@
-﻿  Funcoes-Janela-Console.cpp
-c:\users\barbosa\source\repos\funcoes-janela-console\funcoes-janela-console\funcoes-janela-console.cpp(13): warning C4838: a conversão de 'int' em 'SHORT' requer uma conversão de restrição
-  Funcoes-Janela-Console.vcxproj -> C:\Users\Barbosa\source\repos\Funcoes-Janela-Console\Debug\Funcoes-Janela-Console.exe
+﻿  pch.cpp
+  Funcoes-Janela-Console.cpp
+d:\github\alg2\funcoes-janela-console\funcoes-janela-console\funcoes-janela-console.cpp(13): warning C4838: a conversão de 'int' em 'SHORT' requer uma conversão de restrição
+  Funcoes-Janela-Console.vcxproj -> D:\GitHub\Alg2\Funcoes-Janela-Console\Debug\Funcoes-Janela-Console.exe
